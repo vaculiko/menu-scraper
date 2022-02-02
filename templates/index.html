@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<title>Denní menu</title>
+<link rel="shortcut icon" type="image/png"
+    href="https://icons.iconarchive.com/icons/icons8/ios7/64/Food-Cutlery-icon.png" />
+<meta name="viewport" content="width=device-width/2, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<body bgcolor="#616161">
+
+    <div class="w3-container w3-red">
+        <h1>Denní menu</h1>
+    </div>
+
+    <div class="w3-container w3-gray w3-cell">
+        <h2>Taste of India</h2>
+        <!-- use | safe to input string with HTML  -->
+        {{ table_india | safe}}
+        <p></p>
+    </div>
+
+    <div class="w3-container w3-gray w3-cell">
+        <h2>Na Purkyňce</h2>
+        <!-- use | safe to input string with HTML  -->
+        {{ table_purk | safe}}
+        <p></p>
+    </div>
+
+    <div class="w3-container w3-red">
+        <h5>Brno 2022</h5>
+    </div>
+
+</body>
+
+</html>
