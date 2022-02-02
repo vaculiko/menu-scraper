@@ -50,8 +50,8 @@ Společné funkce
 
 - [x] Scraping restaurací
 - [x] Jednotný formát `json` souboru
+- [x] Výpis z `json` na web
+- [x] Flask na server
 - [ ] HTML layout a styl = ukaž dnes/celý týden
-- [ ] Výpis z `json` na web
-- [ ] Flask na server
 - [ ] Automatické spuštění scraperu každý týden
 - [ ] Automatické načtení dnešního týdne
