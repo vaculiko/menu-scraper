@@ -1,1 +1,72 @@
-{"Pondělí 31.1.2022": {"polevka_1": {"Česneková s opečeným chlebem": 0}, "menu_1": {"Kuřecí prsa zapečená s rajčaty, bazalkou a mozzarellou, hranolky": 135}, "menu_2": {"Hovězí guláš s cibulí a feferonkou, špekové knedlíky": 139}, "menu_3": {"Smažený květák, vařené brambory, tatarská omáčka": 129}}, "Úterý 1.2.2022": {"polevka_1": {"Kuřecí krém": 0}, "menu_1": {"Krůtí cordon bleu, bramborová kaše": 135}, "menu_2": {"Grilovaná uzená žebra ve whisky marinádě, hořčice, křen, nakládaná zelenina, chléb": 159}, "menu_3": {"Špagety Carbonara": 129}}, "Středa 2.2.2022 « dnes": {"polevka_1": {"Boršč": 0}, "menu_1": {"Filovaný flank steak, brambory Louisiana": 159}, "menu_2": {"Plněný paprikový lusk, houskové knedlíky": 129}, "menu_3": {"Zeleninové karbanátky, šťouchané brambory, česnekový dip": 129}}, "Čtvrtek 3.2.2022": {"polevka_1": {"Frankfurtská s párkem": 0}, "menu_1": {"Grilovaná krkovička se sázeným vejcem, pepřová omáčka, americké brambory": 135}, "menu_2": {"Kuře pečené na fenyklu s rajčaty, dušená rýže": 129}, "menu_3": {"Obědový salát s grilovaným hermelínem, bylinková bagetka": 129}}, "Pátek 4.2.2022": {"polevka_1": {"Pórková s vejcem": 0}, "menu_1": {"Kuřecí prsa ve vinném těstíčku, mačkané brambory": 129}, "menu_2": {"Štěpánská hovězí pečeně, dušená rýže": 135}, "menu_3": {"Bramborový guláš, chléb": 119}}}
+{
+  "Pondělí 31.1.2022": {
+    "polevka_1": {
+      "Česneková s opečeným chlebem": 0
+    },
+    "menu_1": {
+      "Kuřecí prsa zapečená s rajčaty, bazalkou a mozzarellou, hranolky": 135
+    },
+    "menu_2": {
+      "Hovězí guláš s cibulí a feferonkou, špekové knedlíky": 139
+    },
+    "menu_3": {
+      "Smažený květák, vařené brambory, tatarská omáčka": 129
+    }
+  },
+  "Úterý 1.2.2022": {
+    "polevka_1": {
+      "Kuřecí krém": 0
+    },
+    "menu_1": {
+      "Krůtí cordon bleu, bramborová kaše": 135
+    },
+    "menu_2": {
+      "Grilovaná uzená žebra ve whisky marinádě, hořčice, křen, nakládaná zelenina, chléb": 159
+    },
+    "menu_3": {
+      "Špagety Carbonara": 129
+    }
+  },
+  "Středa 2.2.2022 « dnes": {
+    "polevka_1": {
+      "Boršč": 0
+    },
+    "menu_1": {
+      "Filovaný flank steak, brambory Louisiana": 159
+    },
+    "menu_2": {
+      "Plněný paprikový lusk, houskové knedlíky": 129
+    },
+    "menu_3": {
+      "Zeleninové karbanátky, šťouchané brambory, česnekový dip": 129
+    }
+  },
+  "Čtvrtek 3.2.2022": {
+    "polevka_1": {
+      "Frankfurtská s párkem": 0
+    },
+    "menu_1": {
+      "Grilovaná krkovička se sázeným vejcem, pepřová omáčka, americké brambory": 135
+    },
+    "menu_2": {
+      "Kuře pečené na fenyklu s rajčaty, dušená rýže": 129
+    },
+    "menu_3": {
+      "Obědový salát s grilovaným hermelínem, bylinková bagetka": 129
+    }
+  },
+  "Pátek 4.2.2022": {
+    "polevka_1": {
+      "Pórková s vejcem": 0
+    },
+    "menu_1": {
+      "Kuřecí prsa ve vinném těstíčku, mačkané brambory": 129
+    },
+    "menu_2": {
+      "Štěpánská hovězí pečeně, dušená rýže": 135
+    },
+    "menu_3": {
+      "Bramborový guláš, chléb": 119
+    }
+  }
+}

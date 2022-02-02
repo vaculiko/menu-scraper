@@ -20,7 +20,7 @@ def zpracuj_odpoved_serveru(url):
 def uloz_menu_do_json(slovnik: dict, nazev_souboru: str) -> None:
     with open(os.path.join("data", nazev_souboru), mode="w",
               encoding='utf-8') as json_soubor:
-        json.dump(slovnik, json_soubor, ensure_ascii=False)
+        json.dump(slovnik, json_soubor, ensure_ascii=False, indent=2)
     print(f"Soubor {nazev_souboru} ulozen.")
 
 

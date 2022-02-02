@@ -1,1 +1,87 @@
-{"Pondělí 31.1.2022": {"polevka_1": {"Rajma soup (fazolová polévka)": 34}, "menu_1": {"Chicken Bhuna (kuřecí kousky v ostré omáčce se zeleninou)": 129}, "menu_2": {"Chicken Palak (kuřecí kostky se špenátem)": 129}, "menu_3": {"Royal Mix Veg (směs zeleniny v kari omáčce)": 129}, "menu_4": {"Mix Thali (mix dnešního menu)": 169}}, "Úterý 1.2.2022": {"polevka_1": {"Dal soup (čočková polévka)": 34}, "menu_1": {"Chicken Jalfrezi (kuřecí kousky v ostré omáčce s paprikou a cibulí)": 129}, "menu_2": {"Chicken Chana (kuřecí kostky v omáčce s cizrnou)": 129}, "menu_3": {"Aloo Mattar (kousky brambor v omáčce s hráškem)": 129}, "menu_4": {"Mix Thali (mix dnešního menu)": 169}}, "Středa 2.2.2022": {"polevka_1": {"Chicken soup (kuřecí polévka)": 34}, "menu_1": {"Lamb Madras (jehněčí kousky ve středně ostré omáčce)": 149}, "menu_2": {"Chicken Dal (kuřecí kostky s čočkou)": 129}, "menu_3": {"Navratan Korma (směs zeleniny v jemné smetanové omáčce)": 129}, "menu_4": {"Mix Thali (mix dnešního menu)": 169}}, "Čtvrtek 3.2.2022": {"polevka_1": {"Tomato soup (rajčatová polévka)": 34}, "menu_1": {"Chicken Rogan (kuřecí kousky ve středně ostré omáčce)": 129}, "menu_2": {"Chicken Lemon (kuřecí kostky v citrónové omáčce)": 129}, "menu_3": {"Malai Kofta (sladké bramborové nugetky v jemné omáčce)": 129}, "menu_4": {"Mix Thali (mix dnešního menu)": 169}}, "Pátek 4.2.2022": {"polevka_1": {"Gobi soup (květáková polévka)": 34}, "menu_1": {"Chicken Garlic (kuřecí kousky v česnekové omáčce)": 129}, "menu_2": {"Chicken Mango (kuřecí kostky v mango omáčce)": 129}, "menu_3": {"Corn Masala (kukuřice ve středně ostré omáčce)": 129}, "menu_4": {"Mix Thali (mix dnešního menu)": 169}}}
+{
+  "Pondělí 31.1.2022": {
+    "polevka_1": {
+      "Rajma soup (fazolová polévka)": 34
+    },
+    "menu_1": {
+      "Chicken Bhuna (kuřecí kousky v ostré omáčce se zeleninou)": 129
+    },
+    "menu_2": {
+      "Chicken Palak (kuřecí kostky se špenátem)": 129
+    },
+    "menu_3": {
+      "Royal Mix Veg (směs zeleniny v kari omáčce)": 129
+    },
+    "menu_4": {
+      "Mix Thali (mix dnešního menu)": 169
+    }
+  },
+  "Úterý 1.2.2022": {
+    "polevka_1": {
+      "Dal soup (čočková polévka)": 34
+    },
+    "menu_1": {
+      "Chicken Jalfrezi (kuřecí kousky v ostré omáčce s paprikou a cibulí)": 129
+    },
+    "menu_2": {
+      "Chicken Chana (kuřecí kostky v omáčce s cizrnou)": 129
+    },
+    "menu_3": {
+      "Aloo Mattar (kousky brambor v omáčce s hráškem)": 129
+    },
+    "menu_4": {
+      "Mix Thali (mix dnešního menu)": 169
+    }
+  },
+  "Středa 2.2.2022": {
+    "polevka_1": {
+      "Chicken soup (kuřecí polévka)": 34
+    },
+    "menu_1": {
+      "Lamb Madras (jehněčí kousky ve středně ostré omáčce)": 149
+    },
+    "menu_2": {
+      "Chicken Dal (kuřecí kostky s čočkou)": 129
+    },
+    "menu_3": {
+      "Navratan Korma (směs zeleniny v jemné smetanové omáčce)": 129
+    },
+    "menu_4": {
+      "Mix Thali (mix dnešního menu)": 169
+    }
+  },
+  "Čtvrtek 3.2.2022": {
+    "polevka_1": {
+      "Tomato soup (rajčatová polévka)": 34
+    },
+    "menu_1": {
+      "Chicken Rogan (kuřecí kousky ve středně ostré omáčce)": 129
+    },
+    "menu_2": {
+      "Chicken Lemon (kuřecí kostky v citrónové omáčce)": 129
+    },
+    "menu_3": {
+      "Malai Kofta (sladké bramborové nugetky v jemné omáčce)": 129
+    },
+    "menu_4": {
+      "Mix Thali (mix dnešního menu)": 169
+    }
+  },
+  "Pátek 4.2.2022": {
+    "polevka_1": {
+      "Gobi soup (květáková polévka)": 34
+    },
+    "menu_1": {
+      "Chicken Garlic (kuřecí kousky v česnekové omáčce)": 129
+    },
+    "menu_2": {
+      "Chicken Mango (kuřecí kostky v mango omáčce)": 129
+    },
+    "menu_3": {
+      "Corn Masala (kukuřice ve středně ostré omáčce)": 129
+    },
+    "menu_4": {
+      "Mix Thali (mix dnešního menu)": 169
+    }
+  }
+}
